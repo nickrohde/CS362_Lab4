@@ -3,7 +3,7 @@
  *	 Course:     CS362         * 
  *	 Project:    Lab 3 - BST   *     
  *	 Instructor: Arne Leitert  *    
- *	 Date:       4 Feb 2018    *     
+ *	 Date:       11 Feb 2018   *     
  * * * * * * * * * * * * * * * */
  
 
